@@ -14,3 +14,6 @@ class Product:
         self.sku = sku
         self.name = name
         self.price = price
+def sort_by_price(products):
+    return sorted(products, key=lambda p: p.price)        
+
