@@ -1,5 +1,5 @@
 add new text
-An online shop for learning Git.
+A small online shop written in Python.
 Contact: shop@example.com
 Run the tests with: python -m pytest -q
 License: MIT
