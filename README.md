@@ -1,3 +1,3 @@
 add new text
 Contact: shop@example.com
-To test, run: python -m pytest -q
+Run the tests with: python -m pytest -q
